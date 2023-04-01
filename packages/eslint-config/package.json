@@ -1,0 +1,23 @@
+{
+  "name": "@xs/eslint-config",
+  "version": "0.0.0",
+  "description": "eslint规则配置",
+  "author": "xieshuang <930571051@qq.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/eslint-config.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
+  },
+  "scripts": {
+    "test": "node ./__tests__/eslint-config.test.js"
+  }
+}
