@@ -1,6 +1,6 @@
 {
   "name": "@xs/eslint-config",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "eslint规则配置",
   "author": "xieshuang <930571051@qq.com>",
   "homepage": "",
@@ -21,4 +21,3 @@
     "test": "node ./__tests__/eslint-config.test.js"
   }
 }
-
