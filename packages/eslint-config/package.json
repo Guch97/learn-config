@@ -21,3 +21,4 @@
     "test": "node ./__tests__/eslint-config.test.js"
   }
 }
+
